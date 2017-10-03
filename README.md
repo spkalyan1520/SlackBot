@@ -1,10 +1,10 @@
 # SlackBot
 A simple way to create slack bots for a conversational user experience
 
--- To install run
+To install run
 
 npm install
 
--- To run 
+To run 
 
 npm start
