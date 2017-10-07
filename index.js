@@ -1,11 +1,10 @@
 var Bot = require('slackbots');
-var async = require('asyncawait/async');
-var await = require('asyncawait/await');
 
 class SlackBot extends Bot{
-    constructor(settings, suggestions, startFunc, messageFunc){
+    constructor(settings){
         super(settings);
         this.settings = settings;
+        this.getChannelDetails;
     }
 
     setSuggestions(suggestions){
@@ -18,14 +17,12 @@ class SlackBot extends Bot{
             message.channel[0] === 'C';
     }
 
-    isMyChannel(){
-        return this.getChannelDetails(this.settings.channel);
+    isMyChannel(message){
+        return this.getChannelDetails(message).then(channel=> this.settings.channel === channel.name);
     }
 
     getChannelDetails(message){
-        return async(function(message){
-            return await(this.getChannelById(message.channel));
-        });
+        return this.getChannelById(message.channel);
     }
 
     postChannelMessage(message, channel){

@@ -1,12 +1,12 @@
 const BandwidthBot = require('./index');
 
 var bot= new BandwidthBot({
-    token:'xoxb-251832614721-DScGOSlVS09DvNk9U0zZPQgW',
+    token:'xoxb-251832614721-OPVxoVcoQwRtmUqI32HVJmhc',
     name:'bandwidthbot',
     channel:'bandwidth'
 });
 bot.setSuggestions({
-    "greetMe":["hello","greet","welcome"],
+    "greetMe":["hello","say hi","greet","welcome"],
     "sayGoodBye":["leave","bye"]
 });
 bot.on('start', function(){
@@ -14,8 +14,11 @@ bot.on('start', function(){
 });
 bot.on('message',function(msg){
     //Check what type of message it is
-    if(bot.isChatMessage(msg) && !bot.isFromBot(msg) && bot.isChannelConversation(msg) && bot.isMyChannel()){
-        bot.callAction(msg);
+    if(bot.isChatMessage(msg) && !bot.isFromBot(msg) && bot.isChannelConversation(msg)){
+        bot.isMyChannel(msg).then(res=>{
+            if(res)
+                bot.callAction(msg);
+        })
     }
 });
 
