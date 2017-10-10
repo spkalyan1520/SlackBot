@@ -1,9 +1,9 @@
 const BandwidthBot = require('./index');
 
 var bot= new BandwidthBot({
-    token:'xoxb-251832614721-OPVxoVcoQwRtmUqI32HVJmhb',
-    name:'bandwidthbot',
-    channel:'bandwidth'
+    token:'xoxb-111111111111-abcdefghijklmnopqrstuvwx',
+    name:'mybotname',
+    channel:'mychannel'
 });
 bot.setSuggestions({
     "greetMe":["hello","say hi","greet","welcome"],
