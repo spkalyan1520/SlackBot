@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91714d73-c96b-4573-9ac1-4c410a6a01e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.js" afterPath="$PROJECT_DIR$/test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -24,43 +21,43 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="255">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="450">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+              <first_editor relative-caret-position="104">
+                <caret line="49" column="53" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="53" />
                 <folding>
-                  <marker date="1507659830000" expanded="true" signature="3118:3290" ph="{&quot;name&quot;: 'mybot'...}" />
-                  <marker date="1507659830000" expanded="true" signature="3312:3400" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="3429:3489" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="3522:3841" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="3650:3839" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="3691:3832" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="3873:3965" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="3998:4093" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="4280:4289" ph="/*...*/" />
-                  <marker date="1507659830000" expanded="true" signature="4354:4363" ph="/*...*/" />
-                  <marker date="1507659830000" expanded="true" signature="4474:4529" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="4606:4620" ph="{...}" />
-                  <marker date="1507659830000" expanded="true" signature="4709:4723" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3118:3290" ph="{&quot;name&quot;: 'mybot'...}" />
+                  <marker date="1507659930000" expanded="true" signature="3312:3400" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3429:3489" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3522:3841" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3650:3839" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3691:3832" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3873:3965" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="3998:4093" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="4279:4288" ph="/*...*/" />
+                  <marker date="1507659930000" expanded="true" signature="4353:4362" ph="/*...*/" />
+                  <marker date="1507659930000" expanded="true" signature="4473:4528" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="4605:4619" ph="{...}" />
+                  <marker date="1507659930000" expanded="true" signature="4708:4722" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -71,7 +68,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="690">
               <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
               <folding />
             </state>
@@ -81,7 +78,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/slackbots/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="2362">
               <caret line="161" column="14" lean-forward="false" selection-start-line="161" selection-start-column="14" selection-end-line="161" selection-end-column="14" />
               <folding />
             </state>
@@ -118,8 +115,8 @@
         <option value="$PROJECT_DIR$/test1.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test.js" />
       </list>
     </option>
   </component>
@@ -140,9 +137,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="x" value="-1775" />
+    <option name="y" value="109" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -253,7 +251,7 @@
       <workItem from="1505937154644" duration="24000" />
       <workItem from="1505937269716" duration="6177000" />
       <workItem from="1506099092344" duration="10865000" />
-      <workItem from="1507322308457" duration="17771000" />
+      <workItem from="1507322308457" duration="18502000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored classes">
       <created>1506381377375</created>
@@ -283,16 +281,37 @@
       <option name="project" value="LOCAL" />
       <updated>1507339930404</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Packaged module and refactored code">
+      <created>1507659877302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507659877302</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Corrected MD">
+      <created>1507659952851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507659952851</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated test credentials">
+      <created>1507660462664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507660462664</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36549000" />
+    <option name="totallyTimeSpent" value="37280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1200" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13691416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13691416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39929014" sideWeight="0.5202738" order="7" side_tool="true" content_ui="tabs" />
@@ -300,8 +319,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830524" sideWeight="0.4822182" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39929014" sideWeight="0.47972617" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32830524" sideWeight="0.4822182" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39929014" sideWeight="0.47972617" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.4978903" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -349,7 +368,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Refactored classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored classes" />
+    <MESSAGE value="Packaged module and refactored code" />
+    <MESSAGE value="Corrected MD" />
+    <MESSAGE value="Updated test credentials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated test credentials" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -720,34 +742,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="690">
+          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/slackbots/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="2362">
           <caret line="161" column="14" lean-forward="false" selection-start-line="161" selection-start-column="14" selection-end-line="161" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -755,25 +769,33 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <first_editor relative-caret-position="104">
+            <caret line="49" column="53" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="53" />
             <folding>
-              <marker date="1507659830000" expanded="true" signature="3118:3290" ph="{&quot;name&quot;: 'mybot'...}" />
-              <marker date="1507659830000" expanded="true" signature="3312:3400" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="3429:3489" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="3522:3841" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="3650:3839" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="3691:3832" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="3873:3965" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="3998:4093" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="4280:4289" ph="/*...*/" />
-              <marker date="1507659830000" expanded="true" signature="4354:4363" ph="/*...*/" />
-              <marker date="1507659830000" expanded="true" signature="4474:4529" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="4606:4620" ph="{...}" />
-              <marker date="1507659830000" expanded="true" signature="4709:4723" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3118:3290" ph="{&quot;name&quot;: 'mybot'...}" />
+              <marker date="1507659930000" expanded="true" signature="3312:3400" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3429:3489" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3522:3841" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3650:3839" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3691:3832" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3873:3965" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="3998:4093" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="4279:4288" ph="/*...*/" />
+              <marker date="1507659930000" expanded="true" signature="4353:4362" ph="/*...*/" />
+              <marker date="1507659930000" expanded="true" signature="4473:4528" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="4605:4619" ph="{...}" />
+              <marker date="1507659930000" expanded="true" signature="4708:4722" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
