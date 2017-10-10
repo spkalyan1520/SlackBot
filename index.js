@@ -4,6 +4,7 @@ class SlackBot extends Bot{
     constructor(settings){
         super(settings);
         this.settings = settings;
+        this.fns = {};
         this.getChannelDetails;
     }
 
@@ -48,7 +49,7 @@ class SlackBot extends Bot{
             });
         });
         if(found)
-            global[action.substr(0,1)+action.substr(1)]();
+            this.fns[action.substr(0,1)+action.substr(1)]();
         return found;
     }
 }

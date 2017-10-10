@@ -1,7 +1,7 @@
 const BandwidthBot = require('./index');
 
 var bot= new BandwidthBot({
-    token:'xoxb-251832614721-OPVxoVcoQwRtmUqI32HVJmhc',
+    token:'xoxb-251832614721-OPVxoVcoQwRtmUqI32HVJmhb',
     name:'bandwidthbot',
     channel:'bandwidth'
 });
@@ -22,10 +22,10 @@ bot.on('message',function(msg){
     }
 });
 
-greetMe = function(){
+bot.fns.greetMe = function(){
     bot.postChannelMessage("Hi how are you?");
 }
 
-sayGoodBye = function(){
+bot.fns.sayGoodBye = function(){
     bot.postChannelMessage("Goodbye!");
 }
