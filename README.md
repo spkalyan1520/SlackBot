@@ -75,7 +75,7 @@ bot.fns.greetMe = function(){ //This name should the key in suggestions
 bot.fns.sayGoodBye = function(){ //This name should match the key in the suggestions
     bot.postChannelMessage("Goodbye!");
 }
-````
+```
 
 
 ###Response Handler
