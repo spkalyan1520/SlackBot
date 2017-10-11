@@ -76,9 +76,8 @@ bot.fns.sayGoodBye = function(){ //This name should match the key in the suggest
     bot.postChannelMessage("Goodbye!");
 }
 ```
-
-
-###Response Handler
+![Alt text](/Screen_Shot.png?raw=true)
+##Response Handler
 The simplest way for handling response is callback function, which is specified as a last argument:
 ```js
 bot.postMessageToUser('user1', 'hi', function(data) {/* ... */});
