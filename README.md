@@ -41,7 +41,7 @@ npm install slack-ux
 - `openIm(userId)` (return: promise) - opens a direct message channel with another member in the team
 
 
-## Usage
+### Usage
 ```js
 
 const BandwidthBot = require('slack-ux');
@@ -76,6 +76,7 @@ bot.fns.sayGoodBye = function(){ //This name should match the key in the suggest
     bot.postChannelMessage("Goodbye!");
 }
 ```
+
 ![Alt text](/Screen_Shot.png?raw=true)
 ##Response Handler
 The simplest way for handling response is callback function, which is specified as a last argument:
