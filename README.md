@@ -44,9 +44,9 @@ npm install slack-ux
 ### Usage
 ```js
 
-const BandwidthBot = require('slack-ux');
+const Bot = require('slack-ux');
 
-var bot= new BandwidthBot({
+var bot= new Bot({
     token:'xoxb-111111111111-abcdefghijklmnopqrstuvwx', // Add a bot https://my.slack.com/services/new/bot and copy the token 
     name:'mybot',
     channel:'mychannel'
